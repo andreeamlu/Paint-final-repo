@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UCreate:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UCreate_jar</output-path>
+    <root id="archive" name="UCreate.jar">
+      <element id="module-output" name="UCreate" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/mysql-connector-java-8.0.28.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
